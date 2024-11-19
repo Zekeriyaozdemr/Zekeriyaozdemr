@@ -9,7 +9,7 @@ I graduated as a Geomatics Engineer in 2018 and specialized in Geographic Inform
   - Geographic Information Systems (GIS) Analysis
   - Data Analysis and Visualization
 
-- **Tools Used:** Excel, SQL, Python, Power BI, ArcGIS, NetCAD
+- **Tools Used:** Excel, SQL, Python, Power BI, ArcGIS, NetCAD, AutoCAD
 
 - **Interests:**
   - Big Data
