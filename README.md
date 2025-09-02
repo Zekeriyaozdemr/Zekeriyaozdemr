@@ -1,33 +1,37 @@
-# **📊 Hello, I'm Zekeriya!**
+# 👋 Hi, I'm Zekeriya Özdemir  
 
-I graduated as a Geomatics Engineer in 2018 and specialized in Geographic Information Systems. After completing a one-year Data Analyst training, I continue to work on improving my skills in Big Data and Smart City Systems.
+## 🚀 About Me  
+🎓 Geomatics Engineer (2018) specialized in **Geographic Information Systems (GIS)** and **LiDAR technologies**.  
+📊 Completed **Kodlasam Data Analyst Training**, gaining strong skills in **Excel, SQL, Python, and Power BI**.  
+🌍 Experienced in **spatial data management, LiDAR-based measurements, and Smart City projects**.  
+🎯 Currently improving my skills in **Business Analysis, Big Data, and Digital Transformation**.  
 
-## **🚀 About Me**
+---
 
-- **Education:** Kodlasam Data Analyst Training (Completed), Geomatics Engineering Graduate (2018)
-- **Areas of Expertise:**
-  - Geographic Information Systems (GIS) Analysis
-  - Data Analysis and Visualization
+## 🎯 Areas of Expertise  
+- 🌐 **Geographic Information Systems (GIS) & Spatial Data Analysis**  
+- 📊 **Data Analysis & Visualization** (Excel, SQL, Python, Power BI)  
+- 🛰️ **LiDAR & Photogrammetry Applications**  
+- 🗂️ **Business Analysis & Process Improvement** (Agile, Jira, BPMN, UML)  
 
-- **Tools Used:** Excel, SQL, Python, Power BI, ArcGIS, NetCAD, AutoCAD
+---
 
-- **Interests:**
-  - Big Data
-  - Machine Learning and Smart City Projects
+## 🛠️ Tools & Technologies  
+🔹 ArcGIS | QGIS | AutoCAD | NetCAD  
+🔹 Excel | SQL | Python | Power BI  
+🔹 Jira | Confluence | MS Visio  
 
-## **📫 Contact Me**
+---
 
-Feel free to reach out:
+## 🌱 My Learning Journey  
+I am currently exploring:  
+- 📌 Business Analysis & Agile Methodologies  
+- 📌 Big Data & Machine Learning Applications  
+- 📌 Smart City Solutions & Digital Twins  
+- 📌 LiDAR and Radar Data Processing  
 
-- **Email:** [ozdmr.zek@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/zekeriyaozdemr/]
+---
 
-## **🌱 My Learning Journey**
-
-I am committed to continuous learning and self-improvement in the field of data analysis. Here are some topics I'm currently exploring:
-
-- Big Data Analysis
-- Machine Learning
-- Smart City Systems
-- Lidar and Radar Technologies
-
+## 📫 Contact Me  
+- 📧 Email: **ozdmr.zek@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/zekeriyaozdemr](https://www.linkedin.com/in/zekeriyaozdemr/)  
